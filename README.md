@@ -8,7 +8,7 @@
 (Python | Javascript | Power BI ) 
 - 🎓 Biomedical Engineer Student @ [UFRN]
 - 💡 Challenge moves me
-- 💻 Currently working at DNACenter
+- 💻 Currently working at DNACenter as developer
 
 <div align="left">  
  </div>
